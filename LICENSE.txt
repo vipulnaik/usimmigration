@@ -1,0 +1,21 @@
+All code in this repository,
+https://github.com/vipulnaik/usimmigration, written primarily by
+Vipul Naik, is released to the
+public domain via the CC0 license. Read
+https://creativecommons.org/publicdomain/zero/1.0/ for more details.
+
+The data on the website is collected from data sources on United
+States federal government websites and is not subject to copyright
+under United States law; see
+https://www.lib.umn.edu/datamanagement/copyright and
+https://law.stackexchange.com/questions/11359/can-you-copyright-data
+for more information. See also
+https://travel.state.gov/content/travel/en/copyright-disclaimer.html,
+the copyright disclaimer from travel.state.gov, one of the websites we
+use as a data source.
+
+Referenced or linked material, or code libraries used, may be subject
+to their own copyright restrictions.
+
+
+
